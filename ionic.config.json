@@ -1,0 +1,7 @@
+{
+  "name": "lastapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

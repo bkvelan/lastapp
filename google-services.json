@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538077907658",
+    "project_id": "dropzy-6b0ad",
+    "storage_bucket": "dropzy-6b0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538077907658:android:208b609ce4143282f80233",
+        "android_client_info": {
+          "package_name": "com.app.dropzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538077907658-3d96ca3c204d7ji7upvlm88lrqirc8vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJYPT4mSGSTvToLfrwX2pgQ7nl5VCW38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538077907658-3d96ca3c204d7ji7upvlm88lrqirc8vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
