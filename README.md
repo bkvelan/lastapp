@@ -1,4 +1,4 @@
-APP NAME - AUROVILE
+APP NAME - dropzy BY AUROVILE
 
 
 Info
